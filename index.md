@@ -46,6 +46,8 @@ Contact at other ports of entry:
 
 [All relevant court orders](allorders.html)
 
+<a href="//www.iubenda.com/privacy-policy/8015137" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+
 [bos]: bos.pdf
 [contactsheet]: https://docs.google.com/spreadsheets/d/1q6nqBX-K3tjLjOlEUDa2K4AzmS__KoPPdNlEy-F2eQk/edit#gid=2104340971
 [masslegal]: http://www.masslegalservices.org/content/advisory-persons-traveling-logan-airport
