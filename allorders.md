@@ -10,7 +10,7 @@ function googleTranslateElementInit() {
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <p/>
 
-Here are the court orders we know of affecting arrivals to the United States:
+Here are recent court orders affecting arrivals to the United States:
 
   * [NY order][edny]
   * [Massachusetts order][bos] for Logan Airport
