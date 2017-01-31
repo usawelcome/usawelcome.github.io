@@ -38,6 +38,7 @@ Contact info in Boston:
   * For updated information on Boston Logan Airport, see [www.masslegalservices.org][masslegal].
   * Hotline ([ACLU Massachusetts](https://twitter.com/ACLU_Mass)):
     +1 617-482-3170 ext. 330
+  * [Helpful travel info](https://docs.google.com/document/d/1rvHPz2IVq3Va2qwgYv3m1aaAqixBuftiAZEp25SyU7c/pub) if you end up in Boston
 
 Contact at other ports of entry:
 
