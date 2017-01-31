@@ -16,12 +16,11 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
 ### Top Tips for Traveling
 
   * Do not sign any documents!
-  * Carry a paper copy of the court order, linked [here][bos] for Boston.  (See
-    [here](allorders.html) for other relevant court documents.)
+  * Carry a paper copy of the court order: [Boston][bos], [others](allorders.html)
   * If you can, get a lawyer in advance and call them.  
   * Know your rights by reading the details below
-  * See the Hotline #s below.
-  * Be calm and patient.  
+  * See the Hotline numbers below.
+  * Be calm and patient.
 
 ### Boston Airport: Status & Details
 
