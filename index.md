@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-Here are some helpful, quick tips on recent developments in US immigration (Jan 27, 2017).  
+Here are some helpful, quick tips on recent developments in US immigration (Jan 27, 2017).
 
 This is not legal advice!  If you can, get a lawyer.
 
