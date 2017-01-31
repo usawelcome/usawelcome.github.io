@@ -22,6 +22,6 @@ and Yemen potentially affected by the January 27, 2017 Executive Order:
   * *DO NOT SIGN ANYTHING.*
   * For updated information regarding the travel ban and protections applying to
     those traveling to Boston Logan Airport, please go to
-    [www.masslegalservices.org][http://www.masslegalservices.org]
+    [www.masslegalservices.org](http://www.masslegalservices.org)
 
 [tro]: jan31.pdf
