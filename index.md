@@ -16,7 +16,8 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
 ### Top Tips for Traveling
 
   * Do not sign any documents!
-  * Carry a paper copy of the court order, linked [here][tro].
+  * Carry a paper copy of the court order, linked [here][tro] for Boston.  (See
+    [here](allorders.html) for other relevant court documents.)
   * If you can, get a lawyer in advance and call them.  
   * Know your rights by reading the details below
   * See the Hotline #s below.
