@@ -12,9 +12,9 @@ function googleTranslateElementInit() {
 
 Here are the court orders we know of affecting arrivals to the United States:
 
-  * [NY decision][edny]
-  * [Boston Logan airport][bos]
-  * [Washington Dulles airport][dulles]
+  * [NY order][edny]
+  * [Massachusetts order][bos] for Logan Airport
+  * [Virginia order][dulles] for Dulles Airport
 
 Also:
 
