@@ -1,7 +1,7 @@
 ---
 layout: page
 title: USA Welcome
-permalink: /index/
+permalink: /
 ---
 
 This is a new website.  This is a further test.
