@@ -14,6 +14,7 @@ Here are the court orders we know of affecting arrivals to the United States:
 
   * [Boston Logan airport][tro]
   * [New York JFK airport][edny]
+  * This list is known to be incomplete.  More to come.
 
 Also:
 
