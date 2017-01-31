@@ -18,12 +18,12 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
   * Do _not_ sign any documents!
   * Carry a paper copy of the court order: [Boston][bos] [others](allorders.html)
   * If you can, get a lawyer in advance and call them.  
-  * Know your rights by reading the details below
+  * Know your rights by reading the details below.
   * Write down the Hotline number below (+1 617-482-3170 ext. 330).
 
 ### Boston Airport: Status & Details
 
-  * Lawful Permanent Residents should not be affected
+  * Lawful Permanent Residents should not be affected.
   * Persons on **direct** flights to Boston Logan Airport should be allowed to
     board flights and should be admitted on arrival if they have a valid, current visa or
     lawful permanent resident status, until Saturday, February 4, 2017.
