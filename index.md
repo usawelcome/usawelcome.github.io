@@ -24,11 +24,11 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
 ### Boston Airport: Status & Details
 
   * Lawful Permanent Residents should not be affected
-  * Persons on *direct* flights to Boston Logan Airport should be allowed to
+  * Persons on **direct** flights to Boston Logan Airport should be allowed to
     board flights and should be admitted on arrival if they have a valid, current visa or
     lawful permanent resident status, until Saturday, February 4, 2017.
-  * Even if you were previously denied boarding, you should be able to travel on a new flight before Feb. 4 but it must be a *direct* flight to Boston Logan Airport. 
-  * *Direct* means no layovers or connections either before or after Boston. If there is
+  * Even if you were previously denied boarding, you should be able to travel on a new flight before Feb. 4 but it must be a **direct** flight to Boston Logan Airport. 
+  * **Direct** means no layovers or connections either before or after Boston. If there is
     no direct flight from your departure city, you should buy a separate ticket from
     a city that has a direct flight to Boston.
   * The Court’s ruling stopping the Executive Order will last until February 4, 2017.
