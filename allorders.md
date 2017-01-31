@@ -12,9 +12,9 @@ function googleTranslateElementInit() {
 
 Here are the court orders we know of affecting arrivals to the United States:
 
-  * [Boston Logan airport][tro]
+  * [NY decision][edny]
+  * [Boston Logan airport][bos]
   * [Washington Dulles airport][dulles]
-  * [Nation-wide decision][edny]
 
 Also:
 
@@ -22,6 +22,6 @@ Also:
 
 
 [edny]: edny.pdf
-[tro]: jan31.pdf
+[bos]: bos.pdf
 [dulles]: dulles.pdf
 [contactsheet]: https://docs.google.com/spreadsheets/d/1q6nqBX-K3tjLjOlEUDa2K4AzmS__KoPPdNlEy-F2eQk/edit#gid=2104340971
