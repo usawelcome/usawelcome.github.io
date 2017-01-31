@@ -1,7 +1,9 @@
 ---
 layout: page
-title: JANUARY 31, 2017 - ADVISORY FOR PERSONS TRAVELING TO BOSTON LOGAN AIRPORT
+title: ADVISORY FOR TRAVELING TO BOSTON LOGAN AIRPORT
 ---
+
+JANUARY 31, 2017 - ADVISORY FOR PERSONS TRAVELING TO BOSTON LOGAN AIRPORT
 
 This advisory intends to assist nationals of Iraq, Iran, Libya, Somalia, Sudan, Syria,
 and Yemen potentially affected by the January 27, 2017 Executive Order:
