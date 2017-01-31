@@ -37,7 +37,7 @@ Contact info in Boston:
 
   * For updated information regarding the travel ban and protections applying to
     those traveling to Boston Logan Airport,
-    please go to [www.masslegalservices.org](http://www.masslegalservices.org).
+    please go to [www.masslegalservices.org][masslegal].
   * Hotline ([ACLU Massachusetts](https://twitter.com/ACLU_Mass)):
     +1 617-482-3170 ext. 330
 
@@ -50,3 +50,4 @@ Contact at other ports of entry:
 
 [bos]: bos.pdf
 [contactsheet]: https://docs.google.com/spreadsheets/d/1q6nqBX-K3tjLjOlEUDa2K4AzmS__KoPPdNlEy-F2eQk/edit#gid=2104340971
+[masslegal]: http://www.masslegalservices.org/content/advisory-persons-traveling-logan-airport
