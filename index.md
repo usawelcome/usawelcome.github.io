@@ -35,9 +35,7 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
 
 Contact info in Boston:
 
-  * For updated information regarding the travel ban and protections applying to
-    those traveling to Boston Logan Airport,
-    please go to [www.masslegalservices.org][masslegal].
+  * For updated information on Boston Logan Airport, see [www.masslegalservices.org][masslegal].
   * Hotline ([ACLU Massachusetts](https://twitter.com/ACLU_Mass)):
     +1 617-482-3170 ext. 330
 
