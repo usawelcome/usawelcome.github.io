@@ -8,6 +8,7 @@ function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<p/>
 
 Regarding recent developments in US immigration (Jan 27, 2017), for nationals of Iraq,
 Iran, Libya, Somalia, Sudan, Syria, and Yemen:
