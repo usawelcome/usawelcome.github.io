@@ -16,7 +16,7 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
 ### Top Tips for Traveling
 
   * **Do _not_ sign** any documents!
-  * Carry a paper copy of the court order: [Boston][bos] [others](allorders.html)
+  * Carry a paper copy of the court order: [Boston][bos], [others](allorders.html)
   * If you can, get a lawyer in advance and call them.  
   * Know your rights by reading the details below.
   * Write down the Hotline number below (+1 617-482-3170 ext. 330).
