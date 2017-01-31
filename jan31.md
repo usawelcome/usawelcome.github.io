@@ -23,11 +23,20 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
     lawful permanent resident status until Saturday, February 4, 2017
   * If you were previously denied boarding, you should be able to travel on a new
     flight but it must be a *direct* flight to Boston Logan Airport.
-  * Direct means no layovers. If your final stop is elsewhere, purchase a separate
+  * Direct means *no layovers*. If your final stop is elsewhere, purchase a separate
     ticket from Boston.  
   * The Court’s ruling stopping the Executive Order will last until February 4, 2017.
 
-For updated information regarding the travel ban and protections applying to those
-traveling to Boston Logan Airport, please go to [www.masslegalservices.org](http://www.masslegalservices.org).
+Contact info in Boston:
+  * For updated information regarding the travel ban and protections applying to
+    those traveling to Boston Logan Airport,
+    please go to [www.masslegalservices.org](http://www.masslegalservices.org).
+  * Hotline ([ACLU Massachusetts](https://twitter.com/ACLU_Mass)):
+    +1 617-482-3170 ext. 330
+
+Contact at other ports of entry:
+  * Full list of [contact numbers by airport][contactsheet]
+  * [New York JFK airport](https://nobanusa.com/)
 
 [tro]: jan31.pdf
+[contactsheet]: https://docs.google.com/spreadsheets/d/1q6nqBX-K3tjLjOlEUDa2K4AzmS__KoPPdNlEy-F2eQk/edit#gid=2104340971
