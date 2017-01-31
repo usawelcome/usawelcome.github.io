@@ -35,6 +35,7 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
   * The Court’s ruling stopping the Executive Order will last until February 4, 2017.
 
 Contact info in Boston:
+
   * For updated information regarding the travel ban and protections applying to
     those traveling to Boston Logan Airport,
     please go to [www.masslegalservices.org](http://www.masslegalservices.org).
@@ -42,6 +43,7 @@ Contact info in Boston:
     +1 617-482-3170 ext. 330
 
 Contact at other ports of entry:
+
   * Full list of [contact numbers by airport][contactsheet]
   * [New York JFK airport](https://nobanusa.com/)
 
