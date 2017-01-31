@@ -31,6 +31,7 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
   * **Direct** means no layovers or connections either before or after Boston. If there is
     no direct flight from your departure city, you should buy a separate ticket from
     a city that has a direct flight to Boston.
+  * If you have a valid visa or LPR status, you may be subject to secondary processing but you should not be detained.
   * The Court’s ruling stopping the Executive Order will last until February 4, 2017.
 
 Contact info in Boston:
