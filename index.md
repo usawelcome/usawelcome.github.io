@@ -15,7 +15,7 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
 
 ### Top Tips for Traveling
 
-  * Do _not_ sign any documents!
+  * **Do _not_ sign** any documents!
   * Carry a paper copy of the court order: [Boston][bos] [others](allorders.html)
   * If you can, get a lawyer in advance and call them.  
   * Know your rights by reading the details below.
@@ -23,10 +23,10 @@ Iran, Libya, Somalia, Sudan, Syria, and Yemen:
 
 ### Boston Airport: Status & Details
 
-  * Lawful Permanent Residents should not be affected.
+  * Lawful Permanent Residents (LPR) should not be affected.
   * Persons on **direct** flights to Boston Logan Airport should be allowed to
     board flights and should be admitted on arrival if they have a valid, current visa or
-    lawful permanent resident status, until Saturday, February 4, 2017.
+    LPR status, until Saturday, February 4, 2017.
   * Even if you were previously denied boarding, you should be able to travel on a new flight before Feb. 4 but it must be a **direct** flight to Boston Logan Airport. 
   * **Direct** means no layovers or connections either before or after Boston. If there is
     no direct flight from your departure city, you should buy a separate ticket from
